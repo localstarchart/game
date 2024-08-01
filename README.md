@@ -1,1 +1,1 @@
-formally known as alien empire
+typical c code
